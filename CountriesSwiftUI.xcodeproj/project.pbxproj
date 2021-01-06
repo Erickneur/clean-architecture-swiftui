@@ -877,7 +877,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"CountriesSwiftUI/Resources\"";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 8HS96HZZW2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = CountriesSwiftUI/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -885,7 +885,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.countries.swiftui;
+				PRODUCT_BUNDLE_IDENTIFIER = com.erickneur.swiftui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
@@ -901,7 +901,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DERIVE_MACCATALYST_PRODUCT_BUNDLE_IDENTIFIER = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"CountriesSwiftUI/Resources\"";
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = 8HS96HZZW2;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = CountriesSwiftUI/Resources/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -909,7 +909,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.countries.swiftui;
+				PRODUCT_BUNDLE_IDENTIFIER = com.erickneur.swiftui;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
